@@ -2,7 +2,7 @@
 /*https://developers.facebook.com/*/
  window.fbAsyncInit = function() {
     FB.init({
-      appId      : '838463579536966',
+      appId      : '392550567607968',
       xfbml      : true,
       version    : 'v2.3'
     });
